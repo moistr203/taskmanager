@@ -1,0 +1,22 @@
+# Maven target folder
+target/
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Java & IDE junk
+*.class
+*.log
+*.jar
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
